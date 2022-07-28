@@ -1,0 +1,19 @@
+{
+  "name": "create-fe",
+  "version": "0.0.0",
+  "description": "Command line service for front end application",
+  "bin": {
+    "fe": "./bin/fe.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nolonger21/create-fe.git"
+  },
+  "homepage": "https://github.com/nolonger21/create-fe",
+  "keywords": [
+    "fe",
+    "cli"
+  ],
+  "author": "nolonger21 <no_longer@qq.com>",
+  "license": "MIT"
+}
